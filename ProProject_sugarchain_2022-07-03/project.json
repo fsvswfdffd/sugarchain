@@ -1,0 +1,684 @@
+{
+  "schematics": {
+    "7242af7e63774d06b263157b0e5fab53": {
+      "name": "Schematic1",
+      "sheets": [
+        {
+          "name": "P1",
+          "id": 1
+        }
+      ]
+    }
+  },
+  "pcbs": {
+    "bb0cf71f51c741db93bdf8b12dbef905": "PCB1"
+  },
+  "panels": {},
+  "symbols": {
+    "624195fcaedc42198002d1c3d676eea8": {
+      "source": "f2baecf085944dad81faf9a0fd6bfcea|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "Sheet-Symbol_A4",
+      "version": "1642995305",
+      "type": 20
+    },
+    "0c765a11ecb0476a9fcecea3fe14a222": {
+      "source": "89f1cda41ffe4c8dadfb7efcd5ec42e3|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "MKR3256M1688MBD-107",
+      "version": "1656338405",
+      "type": 2
+    },
+    "d1c60acebe7749f68215d795e454812b": {
+      "source": "ff94924b97284a16a35a2e4c46c7ea01|86eaf164600c53237b3255f816b99255d9178ce81e831134ef2136513eea71ff",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "RC-01W1002FT",
+      "version": "1642737171",
+      "type": 2
+    },
+    "6929d3ca7c884f999a54f3f58cbffdee": {
+      "source": "88f801fa73a24926a78b98f126429f07|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "Netport-BI",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "Netport-BI",
+      "version": "1635849730",
+      "type": 19
+    },
+    "2009fe4e737c4ef4bcbf4165ad5e03ee": {
+      "source": "178fec89f48e43868bc1fa7aa3054d5c|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "AMS1117-1.2_C963402",
+      "version": "1641818604",
+      "type": 2
+    },
+    "dec44b3ee83a4ac68bc253dc95d75780": {
+      "source": "faa2858b99ab48019d1bc508ad66af9b|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "KH-2PH180-1X2P-L8.7",
+      "version": "1652436031",
+      "type": 2
+    },
+    "045a6b08d718496d824b1085db2fbb7a": {
+      "source": "542d01b8b25e4236a453d7437c3944df|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "Ground-GND",
+      "version": "1642995718",
+      "type": 18
+    },
+    "6f0b43c89b4e48f391774561ec2cffe4": {
+      "source": "8a04e22374494d55957a030ec33de1cb|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "5-Voltage",
+      "version": "1656577930",
+      "type": 18
+    },
+    "6d8147c920a944b0ac65010d508f65cb": {
+      "source": "641c9a3fb18c4cd6b1517a88d9380e5e|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "CA45B-A-10V-10UF-K",
+      "version": "1641819503",
+      "type": 2
+    },
+    "ca6c81a25d7a4b608d7e73f3cbbae9e9": {
+      "source": "6afe7c05a9d5447eb0277d42eaf192b6|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "AMS1117-1.2_C498212",
+      "version": "1653882604",
+      "type": 2
+    },
+    "022d999863b4435782f41ec24131fe2e": {
+      "source": "10683fb0239b445fa2acf5297b0c4de7|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "1.27MM/1*2P",
+      "version": "1643105108",
+      "type": 2
+    },
+    "842090519dca4a2b9a84642aad8e4ef1": {
+      "source": "c1b8b751a29345708c24bcef9a67e2b3|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "Power-VCC",
+      "version": "1656577291",
+      "type": 18
+    },
+    "958ba8c16a25475697013ea6838d1523": {
+      "source": "e5590491488b4f19bdd1bed112deca4d|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "50UF-16V-C1210",
+      "version": "1641822260",
+      "type": 2
+    },
+    "a740605a90a74e42bed2ae3967e1235c": {
+      "source": "eebd5b421c9647fc9ad894727d8978ad|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "2.54mm 1*2P",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "title": "2.54mm 1*2P",
+      "version": "1641821890",
+      "type": 2
+    }
+  },
+  "footprints": {
+    "5a26091bef7d40e8baaac92ed09b2633": {
+      "title": "TFBGA-96_L13.0-W7.5-R16-C6-P0.80-TL",
+      "source": "0c0902f28e204a88b91372be6915e678|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1651039550",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      }
+    },
+    "32de6d02c02b4280907992bdd6de4b37": {
+      "title": "R0201",
+      "source": "06a23c486b334e92b418046d48fbfed7|86eaf164600c53237b3255f816b99255d9178ce81e831134ef2136513eea71ff",
+      "version": "1651211102",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      }
+    },
+    "451d0896bbae45a1916c08db97a46f80": {
+      "title": "SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR",
+      "source": "d3456c497d1a44c0a03b23f4465faee0|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1652421396",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      }
+    },
+    "e51b6233ca6447f1853631dc9a089f91": {
+      "title": "HDR-TH_2P-P2.00-V-M",
+      "source": "9ff6ddbf199e4abc8d7e973b265b4436|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1645524266",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      }
+    },
+    "dbef7f06216f4ebe84945322eee08ca8": {
+      "title": "CAP-SMD_L3.2-W1.6",
+      "source": "20065b28b5dc49daba8ea2c9d8e98247|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1639393383",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      }
+    },
+    "60ade87765b44a2196ad25c7cbef9424": {
+      "title": "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+      "source": "20c29e37a9b84b4197418483096f9c05|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1652420799",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      }
+    },
+    "e47cce87a2c44605935cb524fcc541f2": {
+      "title": "HDR-TH_2P-P1.27-V-M",
+      "source": "38993187634747d8aaa043722cac7c03|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1623912892",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      }
+    },
+    "1295bd86a170458eac859cb536f043ec": {
+      "title": "C1210",
+      "source": "d98380dbde964cff944f829800b236c1|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1652411116",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      }
+    },
+    "f880761f8c1e4451b5903b52ef42c822": {
+      "title": "HDR-TH_2P-P2.54-V-M",
+      "source": "dab68a6adbcd41feaaacbb580297e3ac|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1639468720",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      }
+    }
+  },
+  "devices": {
+    "39efec601c414362adfe99db3286aaeb": {
+      "title": "Sheet-Symbol_A4",
+      "attributes": {
+        "Convert to PCB": "yes",
+        "Add into BOM": "yes",
+        "Symbol": "624195fcaedc42198002d1c3d676eea8"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "4b872d674c0b4b0e8ede0a73cf1a0316|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1611281866"
+    },
+    "777660defe4041a2a1ef1793bbb9ff28": {
+      "title": "MKR3256M1688MBD-107",
+      "attributes": {
+        "LCSC Part Name": "4Gb DDR3 SDRAM",
+        "Supplier Part": "C3151835",
+        "Manufacturer": "MK(米客方德)",
+        "Manufacturer Part": "MKR3256M1688MBD-107",
+        "Supplier Footprint": "FBGA-96",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20220627/1B98DE4A9D15B626EFB06207C1477C0E.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "0c765a11ecb0476a9fcecea3fe14a222",
+        "Designator": "U?",
+        "Footprint": "5a26091bef7d40e8baaac92ed09b2633",
+        "3D Model": "ba0d187f733845a4add9fe0f52dbe260",
+        "3D Model Title": "TFBGA-96_L13.0-W7.5-H1.1-R16-C6-P0.80-TL",
+        "3D Model Transform": "295.275,511.81,0,0,0,0,0,0,0",
+        "Description": "DDR3L, 4Gbit, 256Mx16"
+      },
+      "description": "DDR3L, 4Gbit, 256Mx16",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "e9fafb08244644438a6433d97703336f|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1656602413"
+    },
+    "3e2ce2917a934452b13761467af5c2a5": {
+      "title": "RC-01W1002FT",
+      "attributes": {
+        "LCSC Part Name": "10kΩ ±1%",
+        "Supplier Part": "C304501",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "RC-01W1002FT",
+        "Supplier Footprint": "0201",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20181030/C304501_FF38550671994E5E8FB5233A4E4A9820.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d1c60acebe7749f68215d795e454812b",
+        "Designator": "R?",
+        "Footprint": "32de6d02c02b4280907992bdd6de4b37",
+        "3D Model": "0e006ba4c37b4b73b0e85d5d1c6800cb",
+        "3D Model Title": "R0201_L0.6-W0.3-H0.3",
+        "3D Model Transform": "23.622,11.811,0,0,0,0,0,-0.0005,0",
+        "Value": "10kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "50mW",
+        "Temperature Coefficient": "±200ppm/℃",
+        "Overload Voltage (Max)": "25V",
+        "Operating Temperature Range": "-55℃~+125℃",
+        "Description": "阻值:10kΩ;精度:±1%;功率:50mW;温度系数:±200ppm/℃;最大工作电压:25V;工作温度范围:-55℃~+125℃;"
+      },
+      "description": "阻值:10kΩ;精度:±1%;功率:50mW;温度系数:±200ppm/℃;最大工作电压:25V;工作温度范围:-55℃~+125℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "9cdb9971ec484bc5a41895e1b3ac98b0|86eaf164600c53237b3255f816b99255d9178ce81e831134ef2136513eea71ff",
+      "version": "1655666611"
+    },
+    "eb43b9779330462b90dd63c6e29fb56e": {
+      "title": "Netport-BI",
+      "attributes": {
+        "Symbol": "6929d3ca7c884f999a54f3f58cbffdee"
+      },
+      "description": "Netport-BI",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "327808a2276743528035d8345c17831f|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1635846421"
+    },
+    "4f8880148d434442a94b2dc9823c2be7": {
+      "title": "AMS1117-1.2",
+      "attributes": {
+        "LCSC Part Name": "AMS1117-1.2",
+        "Supplier Part": "C963402",
+        "Manufacturer": "JSMSEMI(杰盛微)",
+        "Manufacturer Part": "AMS1117-1.2",
+        "Supplier Footprint": "SOT-223",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20211201/578FEEF9766904D398893791CE3EC879.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "2009fe4e737c4ef4bcbf4165ad5e03ee",
+        "Designator": "U?",
+        "Footprint": "451d0896bbae45a1916c08db97a46f80",
+        "3D Model": "aa95d8a488c542b6aa3117a8a473808d",
+        "3D Model Title": "SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR",
+        "3D Model Transform": "271.653,263.779,0,0,0,0,0,0,0",
+        "Output Type": "-",
+        "Description": "输出类型:-;"
+      },
+      "description": "输出类型:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "42a325cb4c264dd1851b3522e5273078|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1651956040"
+    },
+    "dabe89f2039749ec864622c48a9456c1": {
+      "title": "KH-2PH180-1X2P-L8.7",
+      "attributes": {
+        "LCSC Part Name": "2mm 1x2P",
+        "Supplier Part": "C2938450",
+        "Manufacturer": "kinghelm(金航标)",
+        "Manufacturer Part": "KH-2PH180-1X2P-L8.7",
+        "Supplier Footprint": "插件,P=2mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20211228/5F9D227CA9211CEAC9F48073B0225F5D.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "dec44b3ee83a4ac68bc253dc95d75780",
+        "Designator": "H?",
+        "Footprint": "e51b6233ca6447f1853631dc9a089f91",
+        "3D Model": "f9fb4b2914f44af7817b19a4e60f11ca",
+        "3D Model Title": "HDR-TH_2P-P2.00-M-LI-1X2P",
+        "3D Model Transform": "157.48,78.74,0,0,0,0,0,0,-118.11",
+        "Pitch": "2mm",
+        "Number of Pins": "2",
+        "Number of Rows": "1",
+        "Pin Structure": "1x2P",
+        "Row Spacing": "-",
+        "Mounting Type": "直插",
+        "Circluar Pins/Square Pins": "方针",
+        "Current Rating (Max)": "1.5A",
+        "Voltage Rating (Max)": "-",
+        "Length of Mating Pin": "3.9mm",
+        "Insulation Height": "2mm",
+        "Length of End Connection Pin": "2.8mm",
+        "Operating Temperature Range": "-40℃~+105℃",
+        "Color": "-",
+        "Description": "间距:2mm;总PIN位数:2;排数:1;插针结构:1x2P;行距:-;安装类型:直插;圆针/方针:方针;额定电流:1.5A;额定电压:-;配合针长度:3.9mm;塑高:2mm;端接针长度:2.8mm;工作温度范围:-40℃~+105℃;颜色:-;"
+      },
+      "description": "间距:2mm;总PIN位数:2;排数:1;插针结构:1x2P;行距:-;安装类型:直插;圆针/方针:方针;额定电流:1.5A;额定电压:-;配合针长度:3.9mm;塑高:2mm;端接针长度:2.8mm;工作温度范围:-40℃~+105℃;颜色:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "48035f6584d84c08a33f64e1aab45410|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1654896343"
+    },
+    "ff5c5795c0a4460da93cb3eab1130053": {
+      "title": "Ground-GND",
+      "attributes": {
+        "Symbol": "045a6b08d718496d824b1085db2fbb7a"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "9a64ac5790a940f7ae40fc736dc6faff|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1635931210"
+    },
+    "c282e4a16d194fa1afd02cbe06a649e7": {
+      "title": "Power-5V",
+      "attributes": {
+        "Symbol": "6f0b43c89b4e48f391774561ec2cffe4",
+        "Global Net Name": "+5V",
+        "Footprint": ""
+      },
+      "description": "Power-5V",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "c19033e4f560428090e4fc097513e5e3|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1656577930"
+    },
+    "c00c8fe370ed409fa5b78a5f2a379cc6": {
+      "title": "CA45B-A-10V-10uF-K",
+      "attributes": {
+        "LCSC Part Name": "10uF ±10% 10V",
+        "Supplier Part": "C136812",
+        "Manufacturer": "CEC(振华新云)",
+        "Manufacturer Part": "CA45B-A-10V-10uF-K",
+        "Supplier Footprint": "CASE-A_3216",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20171106/C136812_15099533458921092611.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "6d8147c920a944b0ac65010d508f65cb",
+        "Designator": "C?",
+        "Footprint": "dbef7f06216f4ebe84945322eee08ca8",
+        "3D Model": "bca56485283b4e3d8ee1ae6b5605dfa7",
+        "3D Model Title": "CAP-SMD_L3.2-W1.6",
+        "3D Model Transform": "126,63,0,0,0,0,0,0,0",
+        "Value": "10uF",
+        "Tolerance": "±10%",
+        "Rated Voltage": "10V",
+        "Equivalent Series Resistance(ESR)": "1.8Ω@100kHz",
+        "Operating Temperature": "-55℃~+125℃",
+        "Description": "容值:10uF;精度:±10%;额定电压:10V;等效串联电阻:1.8Ω@100kHz;工作温度:-55℃~+125℃;"
+      },
+      "description": "容值:10uF;精度:±10%;额定电压:10V;等效串联电阻:1.8Ω@100kHz;工作温度:-55℃~+125℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "05a5135f176c455f9858f6e1593f2026|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1654803830"
+    },
+    "215ad509f2c944c082666c77fdb6ddf9": {
+      "title": "AMS1117-1.2",
+      "attributes": {
+        "LCSC Part Name": "AMS1117-1.2",
+        "Supplier Part": "C498212",
+        "Manufacturer": "Slkor(萨科微)",
+        "Manufacturer Part": "AMS1117-1.2",
+        "Supplier Footprint": "SOT-223",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20201231/C426566_7F22DB93439D00F3FA27143E4F28C6AA.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "ca6c81a25d7a4b608d7e73f3cbbae9e9",
+        "Designator": "U?",
+        "Footprint": "60ade87765b44a2196ad25c7cbef9424",
+        "3D Model": "925194bf9823436183a3e0b978a8d076",
+        "3D Model Title": "SOT-223-4P_L6.5-W3.5-H1.6-LS7.0-P2.30",
+        "3D Model Transform": "279.89794,255.905,0,180,0,0,-3.9385,-0.0005,0",
+        "Quiescent Current (Iq)": "-",
+        "Ripple Rejection (PSRR)": "-",
+        "Current - Supply (Max)": "-",
+        "Output Configuration": "-",
+        "Output Current (Max)": "-",
+        "Output Type": "-",
+        "Enabling feet": "-",
+        "Number of Output Channels": "-",
+        "Operating Temperature": "-",
+        "Voltage - Input (Max)": "-",
+        "Voltage - Output (adj)": "-",
+        "Voltage Dropout (Max)": "-",
+        "Voltage - Output (Fixed)": "-",
+        "Description": "静态电流(Iq):-;输出类型:-;最大输入电压:-;输出电压(可调):-;压降(max):-;输出电压(固定):-;"
+      },
+      "description": "静态电流(Iq):-;输出类型:-;最大输入电压:-;输出电压(可调):-;压降(max):-;输出电压(固定):-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "d10e6e8089d44672bda9d52692891550|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1654893835"
+    },
+    "957a21b57c624000b0d958411b685bc9": {
+      "title": "1.27-1*2P针",
+      "attributes": {
+        "LCSC Part Name": "1.27mm",
+        "Supplier Part": "C703015",
+        "Manufacturer": "BOOMELE(博穆精密)",
+        "Manufacturer Part": "1.27-1*2P针",
+        "Supplier Footprint": "插件,P=1.27mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20210902/5C150484D45C6948DF4AB04E914DF562.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "022d999863b4435782f41ec24131fe2e",
+        "Designator": "H?",
+        "Footprint": "e47cce87a2c44605935cb524fcc541f2",
+        "3D Model": "4f6b396fed824154804722f0ca206ae6",
+        "3D Model Title": "HDR-TH_2P-P1.27-M-LI-1X2P",
+        "3D Model Transform": "100,92.5,0,0,0,0,0,0,-118.1",
+        "Pitch": "1.27mm",
+        "Number of Pins": "2",
+        "Number of Rows": "1",
+        "Pin Structure": "-",
+        "Row Spacing": "-",
+        "Mounting Type": "直插",
+        "Circluar Pins/Square Pins": "-",
+        "Current Rating (Max)": "-",
+        "Voltage Rating (Max)": "-",
+        "Length of Mating Pin": "-",
+        "Insulation Height": "-",
+        "Contact Material": "黄铜",
+        "Contact Plating": "-",
+        "Color": "黑色",
+        "Description": "间距:1.27mm;总PIN位数:2;排数:1;插针结构:-;行距:-;安装类型:直插;圆针/方针:-;额定电流:-;额定电压:-;配合针长度:-;塑高:-;触头材质:黄铜;触头镀层:-;颜色:黑色;"
+      },
+      "description": "间距:1.27mm;总PIN位数:2;排数:1;插针结构:-;行距:-;安装类型:直插;圆针/方针:-;额定电流:-;额定电压:-;配合针长度:-;塑高:-;触头材质:黄铜;触头镀层:-;颜色:黑色;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "d86b9fc3664442d0abde16c0a18146b7|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1654805029"
+    },
+    "c1d8916425e8438a9b17d2575c11e7de": {
+      "title": "Power-VCC",
+      "attributes": {
+        "Symbol": "842090519dca4a2b9a84642aad8e4ef1"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "b381658129d94456b54f23250ef5a375|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1635930980"
+    },
+    "eea885190d0749adafd4b4dc74ef195b": {
+      "title": "50uF-16V-C1210",
+      "attributes": {
+        "LCSC Part Name": "50uF-16V-C1210",
+        "Supplier Part": "C9900005467",
+        "Manufacturer": "",
+        "Manufacturer Part": "50uF-16V-C1210",
+        "Supplier Footprint": "C1210",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "958ba8c16a25475697013ea6838d1523",
+        "Designator": "C?",
+        "Footprint": "1295bd86a170458eac859cb536f043ec",
+        "3D Model": "113f675d30df4856af7632edb7ada0df",
+        "3D Model Title": "C1210_L3.2-W2.5-H0.9",
+        "3D Model Transform": "125.984,99.2124,0,0,0,0,0,0,0",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "91bdc29dc6eb4592a62ae595afdf8559|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1655497401"
+    },
+    "6502af5ae5fe4012b7d764d1156e2c9f": {
+      "title": "2.54mm   1*2P",
+      "attributes": {
+        "LCSC Part Name": "2.54mm   1*2P",
+        "Supplier Part": "C36717",
+        "Manufacturer": "",
+        "Manufacturer Part": "2.54mm   1*2P",
+        "Supplier Footprint": "P=2.54mm",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20151109/1457707557896.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "a740605a90a74e42bed2ae3967e1235c",
+        "Designator": "P?",
+        "Footprint": "f880761f8c1e4451b5903b52ef42c822",
+        "3D Model": "e35305ec3aa84b66b849f914b715e73f",
+        "3D Model Title": "HDR2.54-M-LI-1X2P",
+        "3D Model Transform": "200,100,0,0,0,0,0,0,-118.1",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "0c32f5b204ea402490b45c0a3c51491b|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1654896321"
+    }
+  },
+  "boards": {
+    "Board1": {
+      "schematic": "7242af7e63774d06b263157b0e5fab53",
+      "pcb": "bb0cf71f51c741db93bdf8b12dbef905"
+    }
+  },
+  "config": {
+    "title": "sugarchain",
+    "cbbProject": 0,
+    "defaultSheet": "39efec601c414362adfe99db3286aaeb"
+  }
+}
